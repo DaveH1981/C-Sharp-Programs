@@ -1,11 +1,12 @@
 using System;
 
 namespace RideHeightApp {
-// member variables
+
+Console.WriteLine("How tall are you in centimeters?");
+	
 class RiderHeight {
     	RiderHeight height = new RiderHeight();
 
-	    Console.WriteLine("How tall are you in centimeters?");
         static void checkHeight(int height)
         {
             if (height < 135) 
