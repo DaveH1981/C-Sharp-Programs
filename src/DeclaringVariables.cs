@@ -3,7 +3,7 @@ public class Program {
         //Declaring variables
         int count = 10;
         double total = 150.84;
-        float winPercentage = .6829268;
+        float winPercentage = .6829268f;
         char grade = 'A';
         bool isActive = false;
         string userName = "Alex456";
